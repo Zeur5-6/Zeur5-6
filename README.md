@@ -69,27 +69,6 @@
 
 <div align="center">
 
-### GitHub Snapshot
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Zeur5-6&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeur5-6&layout=compact&langs_count=8&card_width=320&theme=tokyonight" alt="Top languages" />
-</a>
-
-</div>
-
----
-
-### Featured Repositories
-
-- [ddpoker](https://github.com/Zeur5-6/ddpoker)
-- [git-persona](https://github.com/Zeur5-6/git-persona)
-- [water-checker](https://github.com/Zeur5-6/water-checker)
-- [silencecutter](https://github.com/Zeur5-6/silencecutter)
-
----
 
 <table>
 <tr>
