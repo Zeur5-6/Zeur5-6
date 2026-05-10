@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:4C1D95,100:00D9FF&height=230&section=header&text=Zeur5-6&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Bots%20%7C%20Creative%20Coding&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,40:4C1D95,100:06B6D4&height=250&section=header&text=Zeur5-6&fontSize=58&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Bots%20%7C%20Creative%20Coding&descAlignY=58&descSize=18" />
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Interested+in+AI%2C+Bots%2C+and+Creative+Coding;Building+small+tools+and+experimental+apps;Python+%2F+JavaScript+%2F+Web+Development)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Interested+in+AI%2C+Bots%2C+and+Creative+Coding;Building+small+tools+and+experimental+apps;Learning+by+making)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Zeur5-6&label=PROFILE+VIEWS&style=for-the-badge&color=7c3aed" />
 
@@ -18,111 +10,141 @@
 
 ---
 
-<div align="center">
+## About Me
 
-## SYSTEM PROFILE
+<table>
+<tr>
+<td width="58%" valign="top">
 
-</div>
+- Computer science student interested in **AI**, **bots**, **web development**, and **creative coding**
+- Currently working with **Python**, **JavaScript**, **HTML**, and **CSS**
+- Exploring backend and tooling with **Node.js**, **Flask**, **Docker**, **SQLite**, and **Vercel**
+- I like building **small practical tools** and **experimental apps**
+- Main style: **build → test → break → rebuild**
 
-```txt
-ACCESSING PROFILE...
-USER FOUND      : Zeur5-6
-ROLE            : Computer Science Student
-INTERESTS       : AI / Bots / Web / Creative Coding
-PRIMARY LANG    : Python / JavaScript
-BUILD MODE      : Experimental
-STATUS          : Learning by making
-```
+</td>
+<td width="42%" valign="top">
+
+### Quick Info
+
+- **Username:** `Zeur5-6`
+- **Role:** CS Student
+- **Focus:** AI / Bots / Web
+- **Status:** Learning by making
+- **Vibe:** Cyber / Experimental
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary>日本語で読む</summary>
+<summary><b>日本語で読む</b></summary>
 
 情報系の学生として、AIアプリ開発、Bot制作、Web開発、クリエイティブコーディングに興味があります。  
-PythonとJavaScriptを中心に、実験的なツールや小さなアプリを作りながら学習しています。
+PythonとJavaScriptを中心に、実験的なツールや小さなアプリを作りながら学習しています。  
+「作る → 試す → 壊す → 改善する」の流れで、少しずつ開発力を伸ばしています。
 
 </details>
 
 ---
 
-<div align="center">
+## Tech Stack
 
-## TECH STACK
+### Languages
 
-</div>
-
-<div align="center">
-
-### Main Languages
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF5722" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00D9FF" />
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F97316" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8" />
+</p>
 
 ### Tools / Backend / Deploy
 
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=3C873A" />
-<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=F8FAFC" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=F8FAFC" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC" />
+</p>
 
 ### Exploring
 
-<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4DFF" />
+<p>
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=3B82F6" />
+  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=A855F7" />
+</p>
 
-</div>
+---
+
+## What I'm Building / Planning
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### AI Tools
+Small experimental tools related to AI-assisted interaction, utility, and creative workflows.
+
+</td>
+<td width="33%" valign="top">
+
+### Bots
+Bot ideas focused on automation, interaction, and practical features.
+
+</td>
+<td width="33%" valign="top">
+
+### Web Apps
+Simple web applications built while improving backend and frontend skills.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current Interests
+
+- AI-powered applications
+- Discord / automation bots
+- Voice and character systems
+- Web tools
+- Creative coding experiments
+
+---
+
+## GitHub Snapshot
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeur5-6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zeur5-6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=CBD5E1&rank_icon=github" />
+</p>
+
+> If the stats card does not load, it is usually a temporary issue on the public stats service.
+
+---
+
+## Build Log
+
+- Learning core programming concepts
+- Building small projects
+- Experimenting with AI and bots
+- Improving web development skills
+- Turning ideas into usable tools
 
 ---
 
 <div align="center">
-
-## CURRENT INTERESTS
-
+  <sub>Building, learning, and experimenting.</sub>
 </div>
-
-```txt
-> AI-powered applications
-> Discord / automation bots
-> Voice and character systems
-> Web tools
-> Creative coding experiments
-```
-
----
 
 <div align="center">
 
-## LANGUAGE GRAPH
-
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeur5-6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" />
-
-</div>
-
----
-
-<div align="center">
-
-## BUILD LOG
-
-</div>
-
-```txt
-[01] Learning core programming concepts
-[02] Building small projects
-[03] Experimenting with AI and bots
-[04] Improving web development skills
-[05] Turning ideas into usable tools
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:4C1D95,100:0D1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:4C1D95,100:0B1020&height=120&section=footer" />
 
 </div>
