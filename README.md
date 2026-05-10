@@ -54,20 +54,73 @@ PythonとJavaScriptを中心に、実験的なツールや小さなアプリを�
 
 ### Main Languages
 
-<img width="310" src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark&perline=4" />
+<a href="https://www.python.org/" title="Python">
+  <img height="58" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img height="58" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+  <img height="58" src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+  <img height="58" src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />
+</a>
 
+<br />
 <br />
 
 ### Tools / Backend / Deploy
 
-<img width="520" src="https://skillicons.dev/icons?i=nodejs,flask,docker,sqlite,vercel,git,github&theme=dark&perline=7" />
+<a href="https://nodejs.org/" title="Node.js">
+  <img height="58" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
+</a>
+&nbsp;
+<a href="https://flask.palletsprojects.com/" title="Flask">
+  <img height="58" src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" />
+</a>
+&nbsp;
+<a href="https://www.docker.com/" title="Docker">
+  <img height="58" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
+</a>
+&nbsp;
+<a href="https://www.sqlite.org/" title="SQLite">
+  <img height="58" src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" />
+</a>
+&nbsp;
+<a href="https://vercel.com/" title="Vercel">
+  <img height="58" src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
+</a>
+&nbsp;
+<a href="https://git-scm.com/" title="Git">
+  <img height="58" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+</a>
+&nbsp;
+<a href="https://github.com/" title="GitHub">
+  <img height="58" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+</a>
 
+<br />
 <br />
 
 ### Currently Exploring
 
-<img width="240" src="https://skillicons.dev/icons?i=c,cpp,cs&theme=dark&perline=3" />
+<a href="https://en.cppreference.com/w/c" title="C">
+  <img height="58" src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />
+</a>
+&nbsp;
+<a href="https://isocpp.org/" title="C++">
+  <img height="58" src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+</a>
+&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
+  <img height="58" src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" />
+</a>
 
+<br />
 <br />
 
 </div>
