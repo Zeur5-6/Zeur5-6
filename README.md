@@ -73,7 +73,7 @@ Currently, I'm building my foundation in programming while experimenting with sm
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeur5-6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeur5-6&layout=compact&theme=tokyonight" />
 </p>
 
 ---
