@@ -71,11 +71,11 @@
 
 ### GitHub Snapshot
 
-<a href="https://github.com/Zeur5-6" title="GitHub Activity">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Zeur5-6&show_icons=true&hide_rank=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=30,0D1117,111827,1E1B4B&title_color=22D3EE&text_color=CBD5E1&icon_color=A855F7&ring_color=22D3EE&border_radius=12&custom_title=GitHub%20Activity&line_height=26&card_width=420&cache_seconds=21600" alt="GitHub Activity" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Zeur5-6&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </a>
-<a href="https://github.com/Zeur5-6?tab=repositories" title="Language Mix">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeur5-6&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=30,0D1117,111827,1E1B4B&title_color=22D3EE&text_color=CBD5E1&border_radius=12&custom_title=Language%20Mix&size_weight=0.5&count_weight=0.5&exclude_repo=Zeur5-6,TTS-cp&card_width=360&cache_seconds=21600" alt="Language Mix" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeur5-6&layout=compact&langs_count=8&card_width=320&theme=tokyonight" alt="Top languages" />
 </a>
 
 </div>
@@ -84,23 +84,10 @@
 
 ### Featured Repositories
 
-<div align="center">
-
-<a href="https://github.com/Zeur5-6/ddpoker" title="ddpoker">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeur5-6&repo=ddpoker&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=30,0D1117,111827,1E1B4B&title_color=22D3EE&text_color=CBD5E1&icon_color=A855F7&border_radius=12&description_lines_count=2&cache_seconds=21600" alt="ddpoker repository card" />
-</a>
-<a href="https://github.com/Zeur5-6/git-persona" title="git-persona">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeur5-6&repo=git-persona&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=30,0D1117,111827,1E1B4B&title_color=22D3EE&text_color=CBD5E1&icon_color=A855F7&border_radius=12&description_lines_count=2&cache_seconds=21600" alt="git-persona repository card" />
-</a>
-<br>
-<a href="https://github.com/Zeur5-6/water-checker" title="water-checker">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeur5-6&repo=water-checker&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=30,0D1117,111827,1E1B4B&title_color=22D3EE&text_color=CBD5E1&icon_color=A855F7&border_radius=12&description_lines_count=2&cache_seconds=21600" alt="water-checker repository card" />
-</a>
-<a href="https://github.com/Zeur5-6/silencecutter" title="silencecutter">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeur5-6&repo=silencecutter&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=30,0D1117,111827,1E1B4B&title_color=22D3EE&text_color=CBD5E1&icon_color=A855F7&border_radius=12&description_lines_count=2&cache_seconds=21600" alt="silencecutter repository card" />
-</a>
-
-</div>
+- [ddpoker](https://github.com/Zeur5-6/ddpoker)
+- [git-persona](https://github.com/Zeur5-6/git-persona)
+- [water-checker](https://github.com/Zeur5-6/water-checker)
+- [silencecutter](https://github.com/Zeur5-6/silencecutter)
 
 ---
 
@@ -131,9 +118,10 @@
 ---
 
 <div align="center">
-<sub>GitHub Readme Stats cards use public GitHub data and may temporarily fail to load on the public endpoint.</sub>
+<sub>If the stats cards do not load, the public endpoint may be temporarily unstable.</sub>
 <br>
 <sub>Building, learning, and experimenting.</sub>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:4C1D95,100:0B1020&height=95&section=footer" />
 </div>
+
