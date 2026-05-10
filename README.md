@@ -25,73 +25,104 @@
 </div>
 
 ```txt
-User        : Zeur5-6
-Role        : Computer Science Student
-Focus       : AI / Bots / Web / Creative Coding
-Style       : Build, test, break, rebuild
-Status      : Learning by making
-<details> <summary>日本語で読む</summary>
+ACCESSING PROFILE...
+USER FOUND      : Zeur5-6
+ROLE            : Computer Science Student
+INTERESTS       : AI / Bots / Web / Creative Coding
+PRIMARY LANG    : Python / JavaScript
+BUILD MODE      : Experimental
+STATUS          : Learning by making
+```
 
-情報系の学生として、AIアプリ開発、Bot制作、Web開発、クリエイティブコーディングに興味があります。
+<details>
+<summary>日本語で読む</summary>
+
+情報系の学生として、AIアプリ開発、Bot制作、Web開発、クリエイティブコーディングに興味があります。  
 PythonとJavaScriptを中心に、実験的なツールや小さなアプリを作りながら学習しています。
 
 </details>
+
+---
+
 <div align="center">
-TECH STACK
-</div> <div align="center">
-Main
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF5722" /> <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00D9FF" />
-Tools / Backend / Deploy
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=3C873A" /> <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00D9FF" /> <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-Exploring
-<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" /> <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" /> <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4DFF" /> </div>
-<div align="center">
-CURRENT INTERESTS
+
+## TECH STACK
+
 </div>
+
+<div align="center">
+
+### Main Languages
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF5722" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00D9FF" />
+
+### Tools / Backend / Deploy
+
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=3C873A" />
+<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+
+### Exploring
+
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=9B4DFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## CURRENT INTERESTS
+
+</div>
+
+```txt
 > AI-powered applications
 > Discord / automation bots
 > Voice and character systems
 > Web tools
 > Creative coding experiments
+```
+
+---
+
 <div align="center">
-LANGUAGE GRAPH
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeur5-6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" /> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:4C1D95,100:0D1117&height=120&section=footer" /> </div> ```
-何が変わったか
 
-前のデザインは「自己紹介＋バッジ＋グラフ」だけでした。
-今回のは、上に波形ネオンヘッダー、中央にタイピング風アニメーション、下にサイバー端末風プロフィールを入れています。
+## LANGUAGE GRAPH
 
-特に効いているのはここです。
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeur5-6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving...">
+</div>
 
-これが上と下のサイバーっぽい波形画像です。
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?...)](...)
+<div align="center">
 
-これがタイピング風に文字が切り替わる部分です。
+## BUILD LOG
+
+</div>
 
 ```txt
-User        : Zeur5-6
-Role        : Computer Science Student
-...
+[01] Learning core programming concepts
+[02] Building small projects
+[03] Experimenting with AI and bots
+[04] Improving web development skills
+[05] Turning ideas into usable tools
+```
 
-ここは「無機質」ではなく、**あえてターミナル風に見せる無機質さ**なので、サイバー感が出ます。
+---
 
-## さらに尖らせるなら
+<div align="center">
 
-もっと「ハッカー風」にするなら、`SYSTEM PROFILE` をこう変えると雰囲気が増します。
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:4C1D95,100:0D1117&height=120&section=footer" />
 
-```md
-## ACCESS LOG
-
-中身もこうできます。
-
-ACCESSING PROFILE...
-USER FOUND      : Zeur5-6
-ROLE            : Computer Science Student
-INTERESTS       : AI / Bots / Creative Coding
-PRIMARY LANG    : Python / JavaScript
-BUILD MODE      : Experimental
-STATUS          : Online
+</div>
