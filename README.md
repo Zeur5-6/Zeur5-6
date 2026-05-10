@@ -1,10 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,40:4C1D95,100:06B6D4&height=210&section=header&text=Zeur5-6&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20Bots%20%7C%20Creative%20Coding&descAlignY=57&descSize=17" />
 <br>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=22D3EE&center=true&vCenter=true&width=880&lines=Computer+Science+Student;Interested+in+AI%2C+Bots%2C+and+Creative+Coding;Building+small+tools+and+experimental+apps;Learning+by+making" alt="Typing SVG" />
-</a>
-<br>
 <img src="https://komarev.com/ghpvc/?username=Zeur5-6&label=PROFILE+VIEWS&style=for-the-badge&color=7c3aed" />
 </div>
 
