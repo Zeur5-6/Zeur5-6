@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,40:4C1D95,100:06B6D4&height=210&section=header&text=Zeur5-6&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20Bots%20%7C%20Creative%20Coding&descAlignY=57&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,40:4C1D95,100:06B6D4&height=205&section=header&text=Zeur5-6&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Bots%20%7C%20Creative%20Coding&descAlignY=59&descSize=17" />
 <br>
 <img src="https://komarev.com/ghpvc/?username=Zeur5-6&label=PROFILE+VIEWS&style=for-the-badge&color=7c3aed" />
 </div>
@@ -67,48 +67,62 @@
 
 ---
 
+### Development Direction
+
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### AI Tools
-Experimental tools for AI-assisted interaction, utility, and creative workflows.
+<code>MODULE_01</code>
+
+### AI Systems
+**Goal:** build small AI-powered tools  
+**Core:** Python / Flask / Web UI  
+**Output:** experiments, utilities, character systems
 
 </td>
 <td width="33%" valign="top">
 
-### Bots
-Automation and interaction-focused bot ideas.
+<code>MODULE_02</code>
+
+### Bot Automation
+**Goal:** automate useful interactions  
+**Core:** JavaScript / Node.js  
+**Output:** Discord bots, workflow helpers, small services
 
 </td>
 <td width="33%" valign="top">
 
-### Web Apps
-Small web apps for learning backend and frontend skills.
+<code>MODULE_03</code>
+
+### Web Tools
+**Goal:** turn ideas into usable apps  
+**Core:** HTML / CSS / JS / SQLite  
+**Output:** dashboards, simple apps, practical tools
 
 </td>
 </tr>
 </table>
 
----
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Current Interests
-- AI-powered applications
-- Discord / automation bots
-- Voice and character systems
+### Current Signals
+`AI Apps` interaction / utility / workflow  
+`Bots` Discord / automation / response design  
+`Voice` character systems / audio tools  
+`Web` small apps / UI experiments  
 
 </td>
 <td width="50%" valign="top">
 
-### Build Log
-- Core programming concepts
-- Small projects
-- AI / bot experiments
-- Web development skills
+### Build Loop
+`01` learn the minimum  
+`02` make a small prototype  
+`03` test it in real usage  
+`04` break and inspect it  
+`05` rebuild it cleaner  
 
 </td>
 </tr>
