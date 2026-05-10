@@ -17,7 +17,7 @@
 <td width="58%" valign="top">
 
 - Computer science student interested in **AI**, **bots**, **web development**, and **creative coding**
-- Currently working mainly with **Python** and **JavaScript**
+- Currently working mainly with **Python**, **JavaScript**, **HTML**, and **CSS**
 - Exploring backend, deployment, and small tool development
 - I like building **small practical tools** and **experimental apps**
 - Main style: **build → test → break → rebuild**
@@ -52,11 +52,22 @@ PythonとJavaScriptを中心に、実験的なツールや小さなアプリを�
 
 <div align="center">
 
+### Main Languages
+
+<img width="310" src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark&perline=4" />
+
 <br />
 
-<img width="520" src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,flask,docker,sqlite,vercel,git,github,c,cpp,cs&theme=dark&perline=7" />
+### Tools / Backend / Deploy
+
+<img width="520" src="https://skillicons.dev/icons?i=nodejs,flask,docker,sqlite,vercel,git,github&theme=dark&perline=7" />
 
 <br />
+
+### Currently Exploring
+
+<img width="240" src="https://skillicons.dev/icons?i=c,cpp,cs&theme=dark&perline=3" />
+
 <br />
 
 </div>
