@@ -31,7 +31,6 @@
 </table>
 
 <details>
-<summary><b>日本語で読む</b></summary>
 
 情報系の学生として、AIアプリ開発、Bot制作、Web開発、クリエイティブコーディングに興味があります。PythonとJavaScriptを中心に、実験的なツールや小さなアプリを作りながら学習しています。
 
