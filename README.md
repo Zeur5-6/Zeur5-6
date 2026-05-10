@@ -17,8 +17,8 @@
 <td width="58%" valign="top">
 
 - Computer science student interested in **AI**, **bots**, **web development**, and **creative coding**
-- Currently working with **Python**, **JavaScript**, **HTML**, and **CSS**
-- Exploring backend and tooling with **Node.js**, **Flask**, **Docker**, **SQLite**, and **Vercel**
+- Currently working mainly with **Python** and **JavaScript**
+- Exploring backend, deployment, and small tool development
 - I like building **small practical tools** and **experimental apps**
 - Main style: **build → test → break → rebuild**
 
@@ -50,34 +50,16 @@ PythonとJavaScriptを中心に、実験的なツールや小さなアプリを�
 
 ## Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8" />
-</p>
+<br />
 
-### Tools / Backend / Deploy
+<img width="520" src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,flask,docker,sqlite,vercel,git,github,c,cpp,cs&theme=dark&perline=7" />
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=F8FAFC" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=F8FAFC" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC" />
-</p>
+<br />
+<br />
 
-### Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=3B82F6" />
-  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=A855F7" />
-</p>
+</div>
 
 ---
 
@@ -110,11 +92,24 @@ Simple web applications built while improving backend and frontend skills.
 
 ## Current Interests
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 - AI-powered applications
 - Discord / automation bots
 - Voice and character systems
+
+</td>
+<td width="50%" valign="top">
+
 - Web tools
 - Creative coding experiments
+- Practical small utilities
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -131,11 +126,13 @@ Simple web applications built while improving backend and frontend skills.
 
 ## Build Log
 
-- Learning core programming concepts
-- Building small projects
-- Experimenting with AI and bots
-- Improving web development skills
-- Turning ideas into usable tools
+```txt
+[01] Learning core programming concepts
+[02] Building small projects
+[03] Experimenting with AI and bots
+[04] Improving web development skills
+[05] Turning ideas into usable tools
+```
 
 ---
 
