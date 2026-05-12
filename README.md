@@ -72,7 +72,29 @@ If it involves a terminal, an AI API, or something that probably shouldn't work,
 
 ## ⚙️ Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=python,c,js,git,vscode,vercel,docker&theme=dark)](https://skillicons.dev)
+**Main**
+
+[![Main Skills](https://skillicons.dev/icons?i=python,js,html,css,nodejs,flask,sqlite,vercel,docker,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+**AI / Audio / Character**
+
+![LLM API](https://img.shields.io/badge/-LLM_API-D97757?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-8B5CF6?style=flat-square)
+![AivisSpeech](https://img.shields.io/badge/-AivisSpeech-FF6B6B?style=flat-square)
+![VOICEVOX](https://img.shields.io/badge/-VOICEVOX-4ECDC4?style=flat-square)
+![Web Audio API](https://img.shields.io/badge/-Web_Audio_API-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![IndexedDB](https://img.shields.io/badge/-IndexedDB-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Learning**
+
+[![Learning](https://skillicons.dev/icons?i=ts,c,cpp,cs&theme=dark)](https://skillicons.dev)
+
+**Interests**
+
+![Discord Bot](https://img.shields.io/badge/-Discord_Bot-5865F2?style=flat-square&logo=discord&logoColor=white)
+![VRM](https://img.shields.io/badge/-VRM-FF69B4?style=flat-square)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Creative Coding](https://img.shields.io/badge/-Creative_Coding-222222?style=flat-square)
 
 ---
 
