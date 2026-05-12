@@ -74,20 +74,27 @@ If it involves a terminal, an AI API, or something that probably shouldn't work,
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/>
 
 **Tools & Infra**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+<img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32"/>
 
 **AI / ML Adjacent**
 
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
+
+**Learning**
+
+<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32"/>
 
 ---
 
