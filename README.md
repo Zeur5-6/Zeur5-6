@@ -1,105 +1,120 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,40:4C1D95,100:06B6D4&height=205&section=header&text=Zeur5-6&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Bots%20%7C%20Creative%20Coding&descAlignY=59&descSize=17" />
-<br>
-<img src="https://komarev.com/ghpvc/?username=Zeur5-6&label=PROFILE+VIEWS&style=for-the-badge&color=7c3aed" />
-</div>
-
----
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### About Me
-- CS student interested in **AI**, **bots**, **web development**, and **creative coding**
-- Mainly using **Python**, **JavaScript**, **HTML**, and **CSS**
-- Exploring backend, deployment, and small tool development
-- Style: **build → test → break → rebuild**
-
-</td>
-<td width="42%" valign="top">
-
-### Quick Info
-`Username` Zeur5-6  
-`Role` CS Student  
-`Focus` AI / Bots / Web  
-`Status` Learning by making  
-`Vibe` Cyber / Experimental  
-
-</td>
-</tr>
-</table>
-
-<p>
-
-情報系の学生として、AIアプリ開発、Bot制作、Web開発、クリエイティブコーディングに興味があります。PythonとJavaScriptを中心に、実験的なツールや小さなアプリを作りながら学習しています。
-
-</p>
-
----
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              Zeur — GitHub Profile README             -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### Tech Stack
+```
+ ███████╗███████╗██╗   ██╗██████╗
+ ╚══███╔╝██╔════╝██║   ██║██╔══██╗
+   ███╔╝ █████╗  ██║   ██║██████╔╝
+  ███╔╝  ██╔══╝  ██║   ██║██╔══██╗
+ ███████╗███████╗╚██████╔╝██║  ██║
+ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
-<b>Main Languages</b><br>
-<a href="https://www.python.org/" title="Python"><img height="54" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img height="54" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img height="54" src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img height="54" src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" /></a>
+**CS undergrad · exploratory builder · occasional overthinker**
 
-<b>Tools / Backend / Deploy</b><br>
-<a href="https://nodejs.org/" title="Node.js"><img height="54" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
-<a href="https://flask.palletsprojects.com/" title="Flask"><img height="54" src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" /></a>
-<a href="https://www.docker.com/" title="Docker"><img height="54" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
-<a href="https://www.sqlite.org/" title="SQLite"><img height="54" src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" /></a>
-<a href="https://vercel.com/" title="Vercel"><img height="54" src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" /></a>
-<a href="https://git-scm.com/" title="Git"><img height="54" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
-<a href="https://github.com/" title="GitHub"><img height="54" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+*"面白そうだから作った" — that's basically my entire design philosophy.*
 
-<b>Currently Exploring</b><br>
-<a href="https://en.cppreference.com/w/c" title="C"><img height="54" src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" /></a>
-<a href="https://isocpp.org/" title="C++"><img height="54" src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img height="54" src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" /></a>
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/zeur)
+[![GitHub followers](https://img.shields.io/github/followers/Zeur5-6?style=flat-square&color=gray)](https://github.com/Zeur5-6)
 
 </div>
 
 ---
 
+## 👾 About
+
+```yaml
+name:       Zeur
+location:   Tokyo area, Japan
+status:     CS sophomore @ private science university
+interests:  [AI, graphics, terminal art, weird tools]
+principle:  build first, understand later (sometimes)
+```
+
+I build things because they seem interesting — not because they're practical.  
+If it involves a terminal, an AI API, or something that probably shouldn't work, I'm in.
+
+---
+
+## 🛠 Projects
+
+### 🎭 Live2D Desktop Mascot × RAG
+> A desktop companion powered by Claude API with retrieval-augmented generation.  
+> Because why have a static mascot when it can actually remember things?
+
+<!-- badges -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude API](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-8B5CF6?style=flat-square)
+
+---
+
+### 🟦 Minecraft Bot
+> Automated agent living inside a block world.  
+> Proof that even blocky sandboxes deserve sentient inhabitants.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+### 🔍 Git Commit Personality Diagnostic
+> Analyze your git history. Discover what kind of developer you truly are.  
+> Results may be uncomfortable.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools & Infra**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+**AI / ML Adjacent**
+
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
+![Zeur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeur5-6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeur5-6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
 
-### Current Signals
-`AI Apps` interaction / utility / workflow  
-`Bots` Discord / automation / response design  
-`Voice` character systems / audio tools  
-`Web` small apps / UI experiments  
+![GitHub Streak](https://streak-stats.demolab.com?user=Zeur5-6&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF)
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### Build Loop
-`01` learn the minimum  
-`02` make a small prototype  
-`03` test it in real usage  
-`04` break and inspect it  
-`05` rebuild it cleaner  
+---
 
-</td>
-</tr>
-</table>
+## 📝 Writing
+
+Occasionally I write about what I built (and what broke) on Zenn.
+
+[![Zenn Articles](https://img.shields.io/badge/Read_on_Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/zeur)
 
 ---
 
 <div align="center">
-<sub>If the stats cards do not load, the public endpoint may be temporarily unstable.</sub>
-<br>
-<sub>Building, learning, and experimenting.</sub>
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:4C1D95,100:0B1020&height=95&section=footer" />
-</div>
 
+*Currently: exploring AI engineering · building things that shouldn't exist · attending too many electronic music events*
+
+</div>
